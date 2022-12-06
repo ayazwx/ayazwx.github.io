@@ -1089,3 +1089,6 @@ section .container {
     transform: translateX(-50%);
   }
 }
+.lang {
+  font-size: small;
+}
